@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaung Pyae Sone Aung</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaungpyaesonaung2&label=Profile%20views&color=0e75b6&style=flat" alt="kaungpyaesonaung2" /> </p>
 
-- 📫 How to reach me **kaungpyae.kpp16@gmail.com** , **kaungpyaesoneaung2.github.io**
+- 📫 How to reach me **kaungpyae.kpp16@gmail.com** , **https://kaungpyaesoneaung2.github.io**
 <p align="left">
 </p>
 
